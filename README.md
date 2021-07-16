@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Walty25
-- 👀 I’m interested in ...Programming and Cricket
-- 🌱 I’m currently learning ... Python
+- 👋 Hi, I’m Walty
+- 👀 Interested in ...Programming and Cricket
+- 🌱 Currently developing discord Bot
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Discord Username: Walty25#7449
 
