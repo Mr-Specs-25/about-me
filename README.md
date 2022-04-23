@@ -1,5 +1,5 @@
 - Hi, I’m Walter
-- loves coding
+- loves coding - py developer
 - passionate about cricket
 - currently working on a py project
 
