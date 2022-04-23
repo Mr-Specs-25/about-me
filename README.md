@@ -1,7 +1,7 @@
 - Hi, I’m Walter
 - loves coding - py developer
+- lover of learning
 - passionate about cricket
-- currently working on a py project
 
 - How to reach me...
   - Discord Username: Mr_Specs_25#9156
