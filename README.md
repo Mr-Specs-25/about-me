@@ -1,6 +1,7 @@
- - Hi, I’m Walter
- - philomath - loves coding - py developer
- - passionate about cricket
+ -About me...
+  - Hi, I’m Walter
+  - philomath - loves coding - py developer
+  - passionate about cricket
 
 - Socials...
   - Discord: Mr-Specs-25#9156
